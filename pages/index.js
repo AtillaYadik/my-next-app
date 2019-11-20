@@ -14,7 +14,7 @@ const Home = () => (
     <div className="hero">
       <h1 className="title">Welcome to Next.js Atilla Yadik!</h1>
       <p className="description">
-        To get started, edit <code>pages/index.js</code> and save to reload.
+        To get started you should to the following, edit <code>pages/index.js</code> and save to reload.
       </p>
 
       <div className="row">
